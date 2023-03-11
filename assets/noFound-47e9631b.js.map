@@ -1,0 +1,1 @@
+{"version":3,"file":"noFound-47e9631b.js","sources":["../../vue-myPortfolio/src/views/noFound.vue"],"sourcesContent":["<template>\r\n  <div>404</div>\r\n</template>\r\n<script setup>\r\n</script>\r\n<style lang=\"scss\" scoped>\r\n\r\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"iEACE,SAAAA,EAAAC,EAAAC,EAAA"}
